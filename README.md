@@ -1,6 +1,7 @@
 # Web-Series-Recommendation
 
 A modern, Netflix-style web application for personalized Malayalam web series recommendations powered by machine learning algorithms.
+Check out the app: https://malayalam-web-series-recommendation.streamlit.app/
 
 ## Features
 
