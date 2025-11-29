@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 import plotly.express as px
 import plotly.graph_objects as go
 
-# Custom CSS for Netflix-like UI with fully visible sidebar content
+
 st.markdown("""
     <style>
     .main {
